@@ -1,4 +1,4 @@
-﻿# Dhwani Sarathi
+﻿# Bhuvana GR
 
 ### SiH 1403 : App-Based Audiometer
 ### Problem Statement:
@@ -128,14 +128,7 @@ python manage.py runserver <ip_address>:80/<ip_address>:8081
     <img src="Screenshots/winners.jpeg">&emsp;
     </p>
 
-**Team Members** 
-
-- Sachin Kumar Sahu
-- Palivela Ganesh Priyatham
-- Preethi Varsha Marivina
-- Siddhartha G
-- Swami Ramchandra Kedari
-- Sirish Sekhar
+r
 
 ### References
 - Charih, François, and James R. Green. "Audiogram Digitization Tool for Audiological Reports." IEEE Access 10 (2022): 110761-110769.
